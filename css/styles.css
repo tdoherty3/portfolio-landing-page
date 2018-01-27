@@ -26,5 +26,16 @@
 }
 
 .highlight {
-  color: pink;
+  color: deeppink;
+}
+
+.boxmodel1 {
+  margin: 12px;
+  border: 4px solid green;
+  padding: 8px;
+  background-color: Gainsboro;
+}
+
+body {
+  font-family: Verdana;
 }
