@@ -1,5 +1,5 @@
 .jumbotron {
-  background-image: url(https://mymodernmet.com/wp/wp-content/uploads/2017/05/famous-landscape-paintings-13.jpg);
+  background-image: url(https://ane4bf-datap1.s3-eu-west-1.amazonaws.com/wmocms/s3fs-public/styles/featured_media_detail/public/OceansJames_St._JohnFlickr.jpg?B6OLz3xbs7_r_ttzkutmzDH3TsZyVnyA&itok=0DEsgy0J);
   background-size: cover;
   color: black;
   object-fit:
@@ -36,8 +36,26 @@
   background-color: skyblue;
 }
 
+.boxmodel2 {
+  border: 4px solid green;
+  padding: 8px;
+}
+
+img.float1 {
+  float: center;
+}
+
+
 body {
-  font-family: Verdana;
+  margin: 2;
 }
 
 @media screen
+
+.rcorners1 {
+    border-radius: 25px;
+    border: 2px solid #73AD21;
+    padding: 20px;
+    width: 200px;
+    height: 300px;
+  }
