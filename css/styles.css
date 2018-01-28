@@ -33,9 +33,11 @@
   margin: 12px;
   border: 4px solid green;
   padding: 8px;
-  background-color: Gainsboro;
+  background-color: skyblue;
 }
 
 body {
   font-family: Verdana;
 }
+
+@media screen
