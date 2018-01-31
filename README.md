@@ -1,6 +1,6 @@
 # _Thomas Portfolio Landing Page_
 
-#### _This a project for my first code review for the evening Intro class at Epicodus, January 26, 2018_
+#### _This a project is an HTML page for my first code review for the evening Intro class at Epicodus, January 26, 2018_
 
 #### By _**Thomas Doherty**_
 
@@ -10,7 +10,10 @@ _This is a simple HTML page styled with CSS and Bootstrap._
 
 ## Setup/Installation Requirements
 
-* _Access to a web browser and the GitHub Site_
+* _Access and open / create an account at the GitHub site._
+* _Clone the project repository (see GitHub link above) to a directory on your local computer._
+* _Use the a command line interface (such as terminal on Mac) and a source code editor such as Atom to access and view files._
+* _You may also view [the webpage] at gh-pages (https://tdoherty3.github.io/portfolio-landing-page/)_
 
 ## GitHub Link
 
