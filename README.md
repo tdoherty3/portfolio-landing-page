@@ -13,7 +13,7 @@ _This is a simple HTML page styled with CSS and Bootstrap._
 * _Access and open / create an account at the GitHub site._
 * _Clone the project repository (see GitHub link above) to a directory on your local computer._
 * _Use the a command line interface (such as terminal on Mac) and a source code editor such as Atom to access and view files._
-* _You may also view [the webpage] at gh-pages (https://tdoherty3.github.io/portfolio-landing-page/)_
+* _You may also access gh-pages to view [the webpage] (https://tdoherty3.github.io/portfolio-landing-page/)._
 
 ## GitHub Link
 
